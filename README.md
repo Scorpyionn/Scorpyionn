@@ -51,13 +51,6 @@ I'm currently expanding into **LLMs, Generative AI, Agentic AI systems, and NLP*
 
 ---
 
-### 📫 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/raj-chaudhari-60922b24a)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](rajchaudhari704@gmail.com)
-
-<p align="center"><i>Open to internships, placements, and collaborative projects in AI/ML and Data Analytics.</i></p>
-
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=Scorpyionn&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=Scorpyionn&theme=dark&hide_border=false)<br/>
@@ -65,5 +58,14 @@ I'm currently expanding into **LLMs, Generative AI, Agentic AI systems, and NLP*
 
 ---
 [![](https://komarev.com/ghpvc/?username=Scorpyionn&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
+
+### 📫 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/raj-chaudhari-60922b24a)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](rajchaudhari704@gmail.com)
+
+<p align="center"><i>Open to internships, placements, and collaborative projects in AI/ML and Data Analytics.</i></p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
