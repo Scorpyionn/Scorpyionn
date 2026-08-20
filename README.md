@@ -1,72 +1,27 @@
-<h1 align="center">Hi there, I'm Raj Chaudhari 👋</h1>
-<h3 align="center">AI & Analytics Engineer in the making | ML • GenAI • Data</h3>
+# 💫 About Me:
+<h1 align="center">Hi there, I'm [Your Name] 👋</h1><br><h3 align="center">AI & Analytics Engineer in the making | ML • GenAI • Data</h3><br><br><p align="center"><br>  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Final-Year+AI+%26+Analytics+Student;Building+with+ML+%2F+DL+%2F+GenAI;Turning+Data+into+Decisions" alt="Typing SVG" /><br></p><br><br>---<br><br>### 🚀 About Me<br><br>I'm a final-year B.Tech student specializing in **Artificial Intelligence & Analytics** at MIT ADT University. I work across the full data-to-decision pipeline — from cleaning and modeling data to building ML/DL solutions and visualizing insights through BI dashboards. I like solving practical problems with the right tool for the job, whether that's a SQL query, a trained model, or an integrated API.<br><br>I'm currently expanding into **LLMs, Generative AI, Agentic AI systems, and NLP**, and I'm actively building projects to apply these in real-world, production-style workflows.<br><br>---<br><br>### 🎯 Focus & Goals<br><br>- 🔭 **Currently learning:** LLMs, Generative AI, Agentic AI, NLP<br>- 🛠️ **Core strengths:** Python, SQL & Database Management, Machine Learning, Deep Learning, API Integration, Linux/CLI, Docker<br>- 📊 **Visualization:** Power BI, Tableau<br>- 🎯 **Open to roles in:** ML / GenAI Engineering · Data Analytics / BI · AI-driven Software Development<br>- 💬 **Ask me about:** model pipelines, dashboarding, or Linux/Docker-based dev environments<br><br>---<br><br>### 🛠️ Tech Stack<br><br>**Languages & Databases**<br>![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)<br>![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)<br>![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)<br><br>**Machine Learning & Deep Learning**<br>![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)<br>![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)<br>![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)<br>![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)<br>![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)<br><br>**Data & Visualization**<br>![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)<br>![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)<br><br>**Tools & Platforms**<br>![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)<br>![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)<br>![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)<br>![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=fastapi&logoColor=white)<br><br>---<br><br>### 📊 GitHub Stats<br><br><p align="center"><br>  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default&hide_border=true" /><br>  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true" /><br></p><br><br><p align="center"><br>  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&hide_border=true" alt="streak stats" /><br></p><br><br>---<br><br>### 📫 Connect With Me<br><br>[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)<br>[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)<br>[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-link.com)<br><br><p align="center"><i>Open to internships, placements, and collaborative projects in AI/ML and Data Analytics.</i></p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Final-Year+AI+%26+Analytics+Student;Building+with+ML+%2F+DL+%2F+GenAI;Turning+Data+into+Decisions" alt="Typing SVG" />
-</p>
 
----
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/call.sign_scorpy) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/raj-chaudhari-60922b24a) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/Scorpy_09) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Shatrujeet1709) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rajchaudhari704@gmail.com) 
 
-### 🚀 About Me
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Scorpyionn&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=Scorpyionn&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Scorpyionn&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-I'm a final-year B.Tech student specializing in **Artificial Intelligence & Analytics** at MIT ADT University. I work across the full data-to-decision pipeline — from cleaning and modeling data to building ML/DL solutions and visualizing insights through BI dashboards. I like solving practical problems with the right tool for the job, whether that's a SQL query, a trained model, or an integrated API.
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Scorpyionn&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-I'm currently expanding into **LLMs, Generative AI, Agentic AI systems, and NLP**, and I'm actively building projects to apply these in real-world, production-style workflows.
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
----
-
-### 🎯 Focus & Goals
-
-- 🔭 **Currently learning:** LLMs, Generative AI, Agentic AI, NLP
-- 🛠️ **Core strengths:** Python, SQL & Database Management, Machine Learning, Deep Learning, API Integration, Linux/CLI, Docker
-- 📊 **Visualization:** Power BI, Tableau
-- 🎯 **Open to roles in:** ML / GenAI Engineering · Data Analytics / BI · AI-driven Software Development
-- 💬 **Ask me about:** model pipelines, dashboarding, or Linux/Docker-based dev environments
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Scorpyionn&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 ---
+[![](https://komarev.com/ghpvc/?username=Scorpyionn&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### 🛠️ Tech Stack
-
-**Languages & Databases**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-**Machine Learning & Deep Learning**
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-
-**Data & Visualization**
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-
-**Tools & Platforms**
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=fastapi&logoColor=white)
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Scorpyionn&show_icons=true&theme=default&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Scorpyionn&layout=compact&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Scorpyionn&hide_border=true" alt="streak stats" />
-</p>
-
----
-
-### 📫 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/raj-chaudhari-60922b24a)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](rajchaudhari704@gmail.com)
-
-<p align="center"><i>Open to internships, placements, and collaborative projects in AI/ML and Data Analytics.</i></p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
