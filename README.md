@@ -9,7 +9,7 @@
 
 ### 🚀 About Me
 
-I'm a final-year B.Tech student specializing in **Artificial Intelligence & Analytics** at MIT ADT University. I work across the full data-to-decision pipeline — from cleaning and modeling data to building ML/DL solutions and visualizing insights through BI dashboards. I like solving practical problems with the right tool for the job, whether that's a SQL query, a trained model, or an integrated API.
+I'm a B.Tech student specializing in **Artificial Intelligence & Analytics** at MIT ADT University. I work across the full data-to-decision pipeline — from cleaning and modeling data to building ML/DL solutions and visualizing insights through BI dashboards. I like solving practical problems with the right tool for the job, whether that's a SQL query, a trained model, or an integrated API.
 
 I'm currently expanding into **LLMs, Generative AI, Agentic AI systems, and NLP**, and I'm actively building projects to apply these in real-world, production-style workflows.
 
